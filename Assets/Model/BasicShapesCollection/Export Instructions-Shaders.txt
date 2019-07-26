@@ -1,0 +1,18 @@
+ In order to export your creations from unity as an object file you have to follow the following steps:
+
+1_ Create a folder in the project and name it "Editor"
+
+2_ Find the script "EditorObjExporter" and place it in the Folder that you made.
+
+3_ Restart Unity and you will find a new menu item called "Tools"
+
+4_ Select the object that you have created and then go to the "Tools->BasicShapesCollection->Export" menu tool and press one of the three choices. Your new object will be exported to a Folder named "ExportedObj" in your Project, in Documents.
+
+
+I found the above tool from Unity Community in Wiki: http://wiki.unity3d.com/index.php?title=ObjExporter
+
+
+You can find double sided shaders,
+here:http://klakos.com/en/advanced-waving-flag-shader-for-unity-double-sided-alpha-shadow-support-3/
+here:http://forum.unity3d.com/threads/21778-Double-Sided-*Material*
+here:http://www.cygnusprojects.com/index.php/blog/my-first-blog-post/
